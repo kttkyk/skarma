@@ -1,0 +1,518 @@
+{
+    "simplebooklet.com.": {
+        "nxdomain": false,
+        "service": "simplebooklet",
+        "fingerprint": [
+            "We can't find this <a href=\"https://simplebooklet.com"
+        ],
+        "cname": [
+            "simplebooklet.com"
+        ]
+    },
+    "uservoice.com.": {
+        "nxdomain": false,
+        "service": "uservoice",
+        "fingerprint": [
+            "This UserVoice subdomain is currently available!"
+        ],
+        "cname": [
+            "uservoice.com"
+        ]
+    },
+    "cloudfront.net.": {
+        "nxdomain": false,
+        "service": "cloudfront",
+        "fingerprint": [
+            "ERROR: The request could not be satisfied"
+        ],
+        "cname": [
+            ".cloudfront.net"
+        ]
+    },
+    "trafficmanager.net.": {
+        "nxdomain": true,
+        "service": "azure",
+        "fingerprint": [],
+        "cname": [
+            ".azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"
+        ]
+    },
+    "fastly.": {
+        "nxdomain": false,
+        "service": "fastly",
+        "fingerprint": [
+            "Fastly error: unknown domain"
+        ],
+        "cname": [
+            "fastly"
+        ]
+    },
+    "acquia-test.co.": {
+        "nxdomain": false,
+        "service": "acquia",
+        "fingerprint": [
+            "The site you are looking for could not be found."
+        ],
+        "cname": [
+            "acquia-test.co"
+        ]
+    },
+    "pantheonsite.io.": {
+        "nxdomain": false,
+        "service": "pantheon",
+        "fingerprint": [
+            "The gods are wise, but do not know of the site which you seek."
+        ],
+        "cname": [
+            "pantheonsite.io"
+        ]
+    },
+    "createsend.com.": {
+        "nxdomain": false,
+        "service": "campaignmonitor",
+        "fingerprint": [
+            "Double check the URL or <a href=\"mailto:help@createsend.com"
+        ],
+        "cname": [
+            "createsend.com"
+        ]
+    },
+    "statuspage.io.": {
+        "nxdomain": false,
+        "service": "statuspage",
+        "fingerprint": [
+            "You are being <a href=\"https://www.statuspage.io\">redirected"
+        ],
+        "cname": [
+            "statuspage.io"
+        ]
+    },
+    "-portal.apigee.net.": {
+        "nxdomain": true,
+        "service": "apigee",
+        "fingerprint": [],
+        "cname": [
+            "-portal.apigee.net"
+        ]
+    },
+    "azurehdinsight.net.": {
+        "nxdomain": true,
+        "service": "azure",
+        "fingerprint": [],
+        "cname": [
+            ".azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"
+        ]
+    },
+    "vendecommerce.com.": {
+        "nxdomain": false,
+        "service": "vend",
+        "fingerprint": [
+            "Looks like you've traveled too far into cyberspace"
+        ],
+        "cname": [
+            "vendecommerce.com"
+        ]
+    },
+    "myjetbrains.com.": {
+        "nxdomain": false,
+        "service": "jetbrains",
+        "fingerprint": [
+            "is not a registered InCloud YouTrack."
+        ],
+        "cname": [
+            "myjetbrains.com"
+        ]
+    },
+    "teamwork.com.": {
+        "nxdomain": false,
+        "service": "teamwork",
+        "fingerprint": [
+            "Oops - We didn't find your site."
+        ],
+        "cname": [
+            "teamwork.com"
+        ]
+    },
+    "wishpond.com.": {
+        "nxdomain": false,
+        "service": "wishpond",
+        "fingerprint": [
+            "https://www.wishpond.com/404?campaign=true"
+        ],
+        "cname": [
+            "wishpond.com"
+        ]
+    },
+    "proxy-ssl.webflow.com.": {
+        "nxdomain": false,
+        "service": "webflow",
+        "fingerprint": [
+            "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"
+        ],
+        "cname": [
+            "proxy.webflow.com",
+            "proxy-ssl.webflow.com"
+        ]
+    },
+    "domains.smugmug.com.": {
+        "nxdomain": true,
+        "service": "smugmug",
+        "fingerprint": [],
+        "cname": [
+            "domains.smugmug.com"
+        ]
+    },
+    "azure-api.net.": {
+        "nxdomain": true,
+        "service": "azure",
+        "fingerprint": [],
+        "cname": [
+            ".azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"
+        ]
+    },
+    "helpscoutdocs.com.": {
+        "nxdomain": false,
+        "service": "helpscout",
+        "fingerprint": [
+            "No settings were found for this company:"
+        ],
+        "cname": [
+            "helpscoutdocs.com"
+        ]
+    },
+    "domains.tumblr.com.": {
+        "nxdomain": false,
+        "service": "tumblr",
+        "fingerprint": [
+            "Whatever you were looking for doesn't currently exist at this address."
+        ],
+        "cname": [
+            "domains.tumblr.com"
+        ]
+    },
+    "bitbucket.io.": {
+        "nxdomain": false,
+        "service": "bitbucket",
+        "fingerprint": [
+            "Repository not found"
+        ],
+        "cname": [
+            "bitbucket.io"
+        ]
+    },
+    "azureedge.net.": {
+        "nxdomain": true,
+        "service": "azure",
+        "fingerprint": [],
+        "cname": [
+            ".azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"
+        ]
+    },
+    "cloudapp.azure.com.": {
+        "nxdomain": true,
+        "service": "azure",
+        "fingerprint": [],
+        "cname": [
+            ".azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"
+        ]
+    },
+    "brightcovegallery.com.": {
+        "nxdomain": false,
+        "service": "brightcove",
+        "fingerprint": [
+            "<p class=\"bc-gallery-error-code\">Error Code: 404</p>"
+        ],
+        "cname": [
+            "bcvp0rtal.com",
+            "brightcovegallery.com",
+            "gallery.video"
+        ]
+    },
+    "helpjuice.com.": {
+        "nxdomain": false,
+        "service": "helpjuice",
+        "fingerprint": [
+            "We could not find what you're looking for."
+        ],
+        "cname": [
+            "helpjuice.com"
+        ]
+    },
+    "zendesk.com.": {
+        "nxdomain": false,
+        "service": "zendesk",
+        "fingerprint": [
+            "Help Center Closed"
+        ],
+        "cname": [
+            "zendesk.com"
+        ]
+    },
+    "herokuapp.": {
+        "nxdomain": false,
+        "service": "heroku",
+        "fingerprint": [
+            "herokucdn.com/error-pages/no-such-app.html"
+        ],
+        "cname": [
+            "herokuapp"
+        ]
+    },
+    "custom.intercom.help.": {
+        "nxdomain": false,
+        "service": "intercom",
+        "fingerprint": [
+            "This page is reserved for artistic dogs.",
+            "<h1 class=\"headline\"Uh oh. That page doesn't exist.</h1>"
+        ],
+        "cname": [
+            "custom.intercom.help"
+        ]
+    },
+    "gr8.com.": {
+        "nxdomain": false,
+        "service": "getresponse",
+        "fingerprint": [
+            "With GetResponse Landing Pages, lead generation has never been easier"
+        ],
+        "cname": [
+            ".gr8.com"
+        ]
+    },
+    "bcvp0rtal.com.": {
+        "nxdomain": false,
+        "service": "brightcove",
+        "fingerprint": [
+            "<p class=\"bc-gallery-error-code\">Error Code: 404</p>"
+        ],
+        "cname": [
+            "bcvp0rtal.com",
+            "brightcovegallery.com",
+            "gallery.video"
+        ]
+    },
+    "ideas.aha.io.": {
+        "nxdomain": false,
+        "service": "aha",
+        "fingerprint": [
+            "There is no portal here ... sending you back to Aha!"
+        ],
+        "cname": [
+            "ideas.aha.io"
+        ]
+    },
+    "blob.core.windows.net.": {
+        "nxdomain": true,
+        "service": "azure",
+        "fingerprint": [],
+        "cname": [
+            ".azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"
+        ]
+    },
+    "bigcartel.com.": {
+        "nxdomain": false,
+        "service": "bigcartel",
+        "fingerprint": [
+            "<h1>Oops! We could&#8217;t find that page.</h1>"
+        ],
+        "cname": [
+            "bigcartel.com"
+        ]
+    },
+    "readme.io.": {
+        "nxdomain": false,
+        "service": "readme",
+        "fingerprint": [
+            "Project doesnt exist... yet!"
+        ],
+        "cname": [
+            "readme.io"
+        ]
+    },
+    "aftership.com.": {
+        "nxdomain": false,
+        "service": "aftership",
+        "fingerprint": [
+            "Oops.</h2><p class=\"text-muted text-tight\">The page you're looking for doesn't exist."
+        ],
+        "cname": [
+            "aftership.com"
+        ]
+    },
+    "wordpress.com.": {
+        "nxdomain": false,
+        "service": "wordpress",
+        "fingerprint": [
+            "Do you want to register"
+        ],
+        "cname": [
+            "wordpress.com"
+        ]
+    },
+    "myshopify.com.": {
+        "nxdomain": false,
+        "service": "shopify",
+        "fingerprint": [
+            "Sorry, this shop is currently unavailable."
+        ],
+        "cname": [
+            "myshopify.com"
+        ]
+    },
+    "proxy.webflow.com.": {
+        "nxdomain": false,
+        "service": "webflow",
+        "fingerprint": [
+            "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"
+        ],
+        "cname": [
+            "proxy.webflow.com",
+            "proxy-ssl.webflow.com"
+        ]
+    },
+    "gallery.video.": {
+        "nxdomain": false,
+        "service": "brightcove",
+        "fingerprint": [
+            "<p class=\"bc-gallery-error-code\">Error Code: 404</p>"
+        ],
+        "cname": [
+            "bcvp0rtal.com",
+            "brightcovegallery.com",
+            "gallery.video"
+        ]
+    },
+    "cloudapp.net.": {
+        "nxdomain": true,
+        "service": "azure",
+        "fingerprint": [],
+        "cname": [
+            ".azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"
+        ]
+    },
+    "github.io.": {
+        "nxdomain": false,
+        "service": "github",
+        "fingerprint": [
+            "There isn't a GitHub Pages site here."
+        ],
+        "cname": [
+            "github.io"
+        ]
+    },
+    "domains.tictail.com.": {
+        "nxdomain": false,
+        "service": "tictail",
+        "fingerprint": [
+            "to target URL: <a href=\"https://tictail.com",
+            "Start selling on Tictail."
+        ],
+        "cname": [
+            "domains.tictail.com"
+        ]
+    },
+    "ghost.io.": {
+        "nxdomain": false,
+        "service": "ghost",
+        "fingerprint": [
+            "The thing you were looking for is no longer here, or never was"
+        ],
+        "cname": [
+            "ghost.io"
+        ]
+    },
+    "surge.sh.": {
+        "nxdomain": false,
+        "service": "surge",
+        "fingerprint": [
+            "project not found"
+        ],
+        "cname": [
+            "surge.sh"
+        ]
+    },
+    "azurewebsites.net.": {
+        "nxdomain": true,
+        "service": "azure",
+        "fingerprint": [],
+        "cname": [
+            ".azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"
+        ]
+    },
+    "redirect.feedpress.me.": {
+        "nxdomain": false,
+        "service": "feedpress",
+        "fingerprint": [
+            "The feed has not been found."
+        ],
+        "cname": [
+            "redirect.feedpress.me"
+        ]
+    },
+    "amazonaws.": {
+        "nxdomain": false,
+        "service": "s3 bucket",
+        "fingerprint": [
+            "The specified bucket does not exist"
+        ],
+        "cname": [
+            "amazonaws"
+        ]
+    }
+}
